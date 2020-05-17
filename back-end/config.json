@@ -1,0 +1,14 @@
+{
+  "NODE_ENV": "development",
+  "app": {
+    "host": "localhost",
+    "port": 4242
+  },
+  "mongoDb": {
+    "host": "127.0.0.1",
+    "port": "27042",
+    "database": "mern-pool",
+    "user": "YOUR_MONGO_USERNAME",
+    "pass": "YOUR_MONGO_PASSWORD"
+  }
+}
